@@ -1,10 +1,12 @@
 # against-celsus
 
-This repo is for work on a readers edition of Against Celsus. 
+This repo is for foundational work on a readers edition of Against Celsus. 
 
 Suggestions, contributions and corrections are extremely welcome. 
 
-Work is based on the open source text critical edition downloaded from [archive.org link](https://archive.org/details/origen-against-celsus-contra-celsum-greek-critical-edition-2-vols-in-1-koetschau/Origen%2C%20Against%20Celsus%20Greek%20critical%20edition%202%20vols%20in%201%20%28Kroetschau%29/). 
+Work is based on the public domain text critical edition downloaded from [archive.org link](https://archive.org/details/origen-against-celsus-contra-celsum-greek-critical-edition-2-vols-in-1-koetschau/Origen%2C%20Against%20Celsus%20Greek%20critical%20edition%202%20vols%20in%201%20%28Kroetschau%29/). 
+
+There are existing versions available under a CC4 BY-SA license, but this data is licensed CC0 so derivative works don't need to share back. 
 
 
 ## Contributors
